@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/nether_wart_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2}, "model": "tardis:block/seed/coral"}
+	]
+}

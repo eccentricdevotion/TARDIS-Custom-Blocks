@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/furnace",
+    "overrides": [
+        {"predicate": {"custom_model_data":10000001}, "model": "tardis:block/tardis/artron_furnace"},
+        {"predicate": {"custom_model_data":10000002}, "model": "tardis:block/tardis/artron_furnace_lit"}
+    ]
+}
